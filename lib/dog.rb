@@ -5,3 +5,4 @@ end
 def dog_name
   @name
 end
+end
